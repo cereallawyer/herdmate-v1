@@ -1,0 +1,1 @@
+const animals = [{ name: 'Redbull', sire: 'Titan', dam: 'Violet', earTag: 'RB001' }];

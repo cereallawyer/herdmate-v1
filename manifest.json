@@ -3,7 +3,7 @@
   "short_name": "HerdMate",
   "start_url": "index.html",
   "display": "standalone",
-  "background_color": "#ffffff",
+  "background_color": "#f2f6f4",
   "theme_color": "#c5ded6",
   "icons": []
 }

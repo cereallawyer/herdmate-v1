@@ -1,0 +1,1 @@
+HerdMate v1.0 — Fully working PWA for managing calving, performance, treatments, and profiles.
